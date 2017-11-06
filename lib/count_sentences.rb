@@ -10,14 +10,14 @@ class String
   end
 
   def question?
-    "".end_with?("?") 
+    "".end_with?("?")
     return true
   else
     return false
   end
 
   def exclamation?
-    "".end_with?("!") 
+    "".end_with?("!")
     return true
   else
     return false
